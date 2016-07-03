@@ -1,5 +1,5 @@
 package cutter
 
 const (
-	punctuations = "\"',.!?:;~，。！？：；～“"
+	punctuations = "\"',.!?:;~，。！？：；～“”"
 )
