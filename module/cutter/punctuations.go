@@ -1,0 +1,5 @@
+package cutter
+
+const (
+	punctuations = "\"',.!?:;~，。！？：；～“"
+)
